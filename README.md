@@ -68,7 +68,7 @@ phylo-course-amo/
 
 ---
 
-## 📑 **Docuemntação Adicional**
+## 📑 **Documentação Adicional**
 
 - 🔧 [**Checklist Técnico**](docs/technical_checklist.md): guia básico de instalação e configuração para todas as ferramentas.
 - 🗓️ [**Cronograma do Curso**](docs/course_schedule.md): cronograma interativo com materiais e resultados esperados.
@@ -79,8 +79,6 @@ phylo-course-amo/
 
 Parte da organização e documentação deste curso contou com o **apoio do modelo de linguagem ChatGPT 5 (OpenAI)**, utilizado como ferramenta de **revisão textual, estruturação de conteúdos e padronização de templates**.
 Todas as decisões conceituais, revisões e materiais didáticos foram supervisionados e validados por *Angelina de Meiras-Ottoni*.
-
----
 
 ---
 
