@@ -110,7 +110,7 @@ Consulte o guia completo de contribuição: [`CONTRIBUTING.md`](./CONTRIBUTING.m
 
 📧 Interessados devem enviar e-mail para: **[angel.m.ottoni@gmail.com](mailto:angel.m.ottoni@gmail.com)**   
 📤 Materiais e links de cada encontro serão enviados com antecedência.  
-💬 Grupo de apoio: *(a definir – Telegram ou WhatsApp)* 
+💬 Grupo de apoio: *WhatsApp* 
 
 ---
 
