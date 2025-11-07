@@ -33,7 +33,8 @@
 
 #### 📦 Entrega esperada:
 
-* Arquivo `dataset_edited_seqs.fasta` contendo as sequências do grupo.
+* Arquivo `dataset_edited_seqs.fasta` contendo as sequências editadas.
+* Arquivo `file_name.fasta` contendo todas as sequências prontas para o alinhamento.
 
 ---
 
