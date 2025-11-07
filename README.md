@@ -1,10 +1,10 @@
 # 🧬 Curso Prático de Análise Filogenética
 
 > 📅 **Início:** Segunda-feira, **10/11**, às **10h**  
-> 👩🏻‍🏫 **Instrutora:** [*Angelina de Meiras-Ottoni* ](https://www.linkedin.com/in/angelina-meiras-ottoni/)     
+> 👩🏻‍🏫 **Instrutora:** [*Angelina de Meiras-Ottoni*](https://www.linkedin.com/in/angelina-meiras-ottoni/)     
 > 🧠 **Foco:** Pipeline completo de análise filogenética — do DNA à árvore final          
 > 💻 **Plataforma:** GitHub (materiais, notebooks e resultados compartilhados)  
-> 📍 **Formato:** _a definir_ 
+> 📍 **Formato:** Curso prático/Online 
 
 ---
 
@@ -55,8 +55,7 @@ phylo-course-amo/
 │   │       └── raw/          → sequências brutas de exemplo (.fasta, .abi etc.)
 │   ├── notebooks/            → notebooks práticos (ex.: *genbank_downloader.ipynb*)
 │   └── tutorials/            → tutoriais passo a passo (ex.: *block1_sequence_editing_preparation.md*)
-└── results/
-    └── participants/         → resultados e entregas dos participantes
+└── results/                  → resultados gerados durante o curso
 ```
 
 **Como navegar:**
