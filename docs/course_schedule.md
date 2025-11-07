@@ -40,7 +40,8 @@
 
 **Entrega esperada**
 
-* [ ] `dataset_edited_seqs.fasta`
+* [ ] Dataset com as squências editadas `dataset_edited_seqs.fasta`
+* [ ] Dataset pronto para alinahmento
 
 ---
 
@@ -58,7 +59,7 @@
 
 **Materiais**
 
-* 📁 [Dataset final do grupo](results/dataset_final.fasta)
+* 📁 [Dataset final](./results/dataset_edited_seqs.fasta)
 * 💻 [MAFFT Web Server](https://mafft.cbrc.jp/alignment/server/)
 
 **Entrega esperada**
@@ -106,7 +107,6 @@
 
 **Materiais**
 
-* 📘 [Guia rápido – Comandos IQ-TREE](tutorials/iqtree_commands.pdf)
 * 📁 [Exemplo de árvore inferida](materials/example_tree.treefile)
 
 **Entrega esperada**
@@ -142,14 +142,14 @@
 
 * [ ] Revisão geral do pipeline
 * [ ] Discussão sobre alternativas (Bayesian inference, BEAST, RAxML)
-* [ ] Entrega dos arquivos finais e feedback do grupo
+* [ ] Entrega dos arquivos finais (Se aplicável) e feedback do grupo
 * [ ] Coleta de sugestões para melhorias ou módulos avançados
 
 ---
 
 ### ✉️ **Organização e Contato**
 
-📧 Enviar e-mail para participação: `angel.m.ottoni@gmail.com`
-📤 Materiais e links de cada encontro serão enviados antecipadamente.
-💬 Grupo de apoio: *(a ser definido — Telegram ou WhatsApp)*
+📧 Enviar e-mail para participação: `angel.m.ottoni@gmail.com`  
+📤 Materiais e links de cada encontro serão enviados antecipadamente. 
+💬 Grupo de apoio: *(a ser definido — Telegram ou WhatsApp)*  
 
